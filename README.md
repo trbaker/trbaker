@@ -11,5 +11,5 @@
     <td><img src="images/cf.png"></td>
     <td><img src="images/AGO.png"></td>
     <td><img src="images/s123.png"></td>
-    <td><img src="images/storymap.png"></td>
+    <td><img src="images/storymap.png" height=50></td>
   </tr></table>
