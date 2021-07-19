@@ -11,5 +11,5 @@
     <td><img src="images/AGO.png" height=70 alt="ArcGIS Online"></td>
     <td><img src="images/sql.png" height=70 alt="SQL"></td>
     <td><img src="images/s123.png" height=70 alt="Survey123"></td>
-    <td><img src="images/storymap.png" height=70 alt="Esri Storymaps"></td>
+    <td><img src="images/GCF.png" height=70 alt="Google Cloud Functions"></td>
   </tr></table>
