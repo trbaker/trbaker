@@ -8,5 +8,8 @@
   <tr>
     <td><img src="images/python.png"></td>
     <td><img src="images/mysql.png"></td>
-    <td><img src="images/python.png"></td>
+    <td><img src="images/cf.png"></td>
+    <img src="images/AGO.png"></td>
+    <img src="images/s123.png"></td>
+    <img src="images/storymap.png"></td>
   </tr></table>
