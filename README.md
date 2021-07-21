@@ -8,4 +8,5 @@
     <td><img src="images/sql.png" height=70 alt="SQL"></td>
     <td><img src="images/s123.png" height=70 alt="Survey123"></td>
     <td><img src="images/GCF.png" height=70 alt="Google Cloud Functions"></td>
+    <td><img src="images/s4.png" height=70 alt="Amazon S3"></td>
   </tr></table>
