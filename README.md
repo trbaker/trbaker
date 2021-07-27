@@ -2,7 +2,7 @@
 - [GitHub homepage](https://trbaker.github.io/)
 - [Esri Education](http://www.esri.com/education)
 
-**Familiar tech**
+**A student of these tools:**
 <table>
   <tr>
     <td><img src="images/python.png" height=70 alt="Python"></td>
