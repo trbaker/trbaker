@@ -1,5 +1,6 @@
 ## Links
 - [GitHub homepage](https://trbaker.github.io/)
+- [https://tbaker.maps.arcgis.com/apps/instant/filtergallery/index.html?appid=e09eb6cb866740ec9c42c86773ab4de3](Baker Educational Prototype Lab)
 - [Esri Education](http://www.esri.com/education)
 
 **A student of these tools:**
