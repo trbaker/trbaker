@@ -1,4 +1,3 @@
 ## Links
+- [GitHub](https://trbaker.github.io)
 - [YouTube](https://youtube.com/@geoinquiries)
-- [Esri Education](http://www.esri.com/education)
-
