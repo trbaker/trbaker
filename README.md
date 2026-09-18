@@ -3,8 +3,6 @@
 
 # Tom Baker
 
-*GIS developer · cartography apologist · person who will ask "what's the CRS?" before saying hello*
-
 ![CRS](https://img.shields.io/badge/CRS-EPSG%3A4326-2ea44f?style=flat-square)
 ![Axis Order](https://img.shields.io/badge/axis%20order-it's%20complicated-orange?style=flat-square)
 ![Topology](https://img.shields.io/badge/topology-valid%20(mostly)-blue?style=flat-square)
